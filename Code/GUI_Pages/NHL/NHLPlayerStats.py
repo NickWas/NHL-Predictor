@@ -1,0 +1,1 @@
+st.write("player stats page")

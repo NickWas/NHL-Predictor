@@ -1,0 +1,394 @@
+{
+  "summary": {
+    "total": 22,
+    "injuries": 15,
+    "returns": 7,
+    "players": "{'makar', 'mcdavid', 'marner', 'kuemper', 'kane', 'hellebuyck', 'connor', 'rantanen', 'kaprizov', 'price', 'cale', 'point', 'mikko', 'luongo'}",
+    "recent_injuries": [
+      {
+        "player": "point",
+        "status": "injury",
+        "context": " from the point i had thought that's game. what a recovery",
+        "subreddit": "winnipegjets",
+        "post_id": "1kf04ik",
+        "post_title": "",
+        "created_utc": "2025-05-04 23:17:12",
+        "is_comment": true,
+        "comment_id": "mqnd6ei"
+      },
+      {
+        "player": "makar",
+        "status": "injury",
+        "context": "was taken out of the game and likely sustained an injury.\u00a0makar was initially assessed a minor penal",
+        "subreddit": "SeattleKraken",
+        "post_id": "1keui04",
+        "post_title": "",
+        "created_utc": "2025-05-04 22:53:07",
+        "is_comment": true,
+        "comment_id": "mqn9f0z"
+      },
+      {
+        "player": "price",
+        "status": "injury",
+        "context": "really mind the price paid on gourde/bjorkstrand. injury aside, the thing that bugs me is the usage ",
+        "subreddit": "TampaBayLightning",
+        "post_id": "1kf0tdv",
+        "post_title": "",
+        "created_utc": "2025-05-04 22:43:10",
+        "is_comment": true,
+        "comment_id": "mqn7wmz"
+      },
+      {
+        "player": "kane",
+        "status": "injury",
+        "context": "i don\u2019t see the kasper, kane and cat line getting broken up with how much success they had. \n\ni also",
+        "subreddit": "DetroitRedWings",
+        "post_id": "1kexybm",
+        "post_title": "",
+        "created_utc": "2025-05-04 20:09:23",
+        "is_comment": true,
+        "comment_id": "mqmiuvm"
+      },
+      {
+        "player": "kaprizov",
+        "status": "injury",
+        "context": ", kaprizov started dealing with an abdominal area injury around christmas time. he was first shut do",
+        "subreddit": "wildhockey",
+        "post_id": "1kewrbt",
+        "post_title": "",
+        "created_utc": "2025-05-04 20:06:39",
+        "is_comment": true,
+        "comment_id": "mqmielj"
+      }
+    ],
+    "recent_returns": [
+      {
+        "player": "mcdavid",
+        "status": "return",
+        "context": "mcdavid\u2019s masterminded almost-comeback. i watched that game with someone who had",
+        "subreddit": "EdmontonOilers",
+        "post_id": "1kevac6",
+        "post_title": "",
+        "created_utc": "2025-05-05 00:31:28",
+        "is_comment": true,
+        "comment_id": "mqnn4ye"
+      },
+      {
+        "player": "mikko",
+        "status": "return",
+        "context": "ginning of the season when asked about nichushkin returning after suspension mikko just said \"well, ",
+        "subreddit": "DallasStars",
+        "post_id": "1kerm1b",
+        "post_title": "",
+        "created_utc": "2025-05-04 20:32:14",
+        "is_comment": true,
+        "comment_id": "mqmmmld"
+      },
+      {
+        "player": "rantanen",
+        "status": "return",
+        "context": " and win the stars\u2019 first-round series in an epic comeback.\n\n>but rantanen\u2019s three-goal third period",
+        "subreddit": "DallasStars",
+        "post_id": "1kewuhc",
+        "post_title": "What happens to the hats from Stars forward Mikko Rantanen\u2019s Game 7 hat trick?",
+        "created_utc": "2025-05-04 18:56:07",
+        "is_comment": false,
+        "comment_id": ""
+      },
+      {
+        "player": "makar",
+        "status": "return",
+        "context": "hat lead to makar\u2019s stick exploding and stars the comeback",
+        "subreddit": "ColoradoAvalanche",
+        "post_id": "1kemjmd",
+        "post_title": "",
+        "created_utc": "2025-05-04 14:47:45",
+        "is_comment": true,
+        "comment_id": "mqkw7a5"
+      },
+      {
+        "player": "connor",
+        "status": "return",
+        "context": "roken sternum injury is nearly impossible to come back from - depth scoring aside from o\u2019connor just",
+        "subreddit": "ColoradoAvalanche",
+        "post_id": "1kemtv8",
+        "post_title": "",
+        "created_utc": "2025-05-04 13:11:03",
+        "is_comment": true,
+        "comment_id": "mqkcz51"
+      }
+    ]
+  },
+  "details": {
+    "rantanen": [
+      {
+        "player": "rantanen",
+        "status": "return",
+        "context": " and win the stars\u2019 first-round series in an epic comeback.\n\n>but rantanen\u2019s three-goal third period",
+        "subreddit": "DallasStars",
+        "post_id": "1kewuhc",
+        "post_title": "What happens to the hats from Stars forward Mikko Rantanen\u2019s Game 7 hat trick?",
+        "created_utc": "2025-05-04 18:56:07",
+        "is_comment": false,
+        "comment_id": NaN
+      }
+    ],
+    "marner": [
+      {
+        "player": "marner",
+        "status": "return",
+        "context": "s morning. marner will not participate in today\u2019s practice. ",
+        "subreddit": "leafs",
+        "post_id": "1kelwwn",
+        "post_title": "[Leafs PR] Maple Leafs forward Mitch Marner and his wife, Stephanie, welcomed the arrival of a baby boy this morning. Marner will not participate in today\u2019s practice.",
+        "created_utc": "2025-05-04 11:03:53",
+        "is_comment": false,
+        "comment_id": NaN
+      }
+    ],
+    "makar": [
+      {
+        "player": "makar",
+        "status": "injury",
+        "context": "was taken out of the game and likely sustained an injury.\u00a0makar was initially assessed a minor penal",
+        "subreddit": "SeattleKraken",
+        "post_id": "1keui04",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 22:53:07",
+        "is_comment": true,
+        "comment_id": "mqn9f0z"
+      },
+      {
+        "player": "makar",
+        "status": "return",
+        "context": "hat lead to makar\u2019s stick exploding and stars the comeback",
+        "subreddit": "ColoradoAvalanche",
+        "post_id": "1kemjmd",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 14:47:45",
+        "is_comment": true,
+        "comment_id": "mqkw7a5"
+      },
+      {
+        "player": "makar",
+        "status": "injury",
+        "context": "makar looks injured slightly. his wrist had a bandage and he w",
+        "subreddit": "ColoradoAvalanche",
+        "post_id": "1kemtv8",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 12:27:36",
+        "is_comment": true,
+        "comment_id": "mqk4ch1"
+      },
+      {
+        "player": "makar",
+        "status": "injury",
+        "context": "makar was clearly injured at the beginning of the series. could bare",
+        "subreddit": "ColoradoAvalanche",
+        "post_id": "1kemtv8",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 12:15:43",
+        "is_comment": true,
+        "comment_id": "mqk21wp"
+      }
+    ],
+    "connor": [
+      {
+        "player": "connor",
+        "status": "return",
+        "context": "roken sternum injury is nearly impossible to come back from - depth scoring aside from o\u2019connor just",
+        "subreddit": "ColoradoAvalanche",
+        "post_id": "1kemtv8",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 13:11:03",
+        "is_comment": true,
+        "comment_id": "mqkcz51"
+      }
+    ],
+    "cale": [
+      {
+        "player": "cale",
+        "status": "injury",
+        "context": "kko thing is what it is.  it's never not going to hurt, but in reality with landy back and cale gett",
+        "subreddit": "ColoradoAvalanche",
+        "post_id": "1kemjmd",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 13:09:29",
+        "is_comment": true,
+        "comment_id": "mqkcnq7"
+      },
+      {
+        "player": "cale",
+        "status": "injury",
+        "context": "e the depth you need.  it sucks... last night was painful for us all... but the reality is cale will",
+        "subreddit": "ColoradoAvalanche",
+        "post_id": "1ken5ka",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 12:29:57",
+        "is_comment": true,
+        "comment_id": "mqk4sug"
+      }
+    ],
+    "mikko": [
+      {
+        "player": "mikko",
+        "status": "return",
+        "context": "ginning of the season when asked about nichushkin returning after suspension mikko just said \"well, ",
+        "subreddit": "DallasStars",
+        "post_id": "1kerm1b",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 20:32:14",
+        "is_comment": true,
+        "comment_id": "mqmmmld"
+      }
+    ],
+    "kuemper": [
+      {
+        "player": "kuemper",
+        "status": "injury",
+        "context": "ly move on from kuemper who was shaken by the eye surgery, and had two of the top 5 players in the g",
+        "subreddit": "DallasStars",
+        "post_id": "1kepb86",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 17:52:23",
+        "is_comment": true,
+        "comment_id": "mqlv9cg"
+      },
+      {
+        "player": "kuemper",
+        "status": "injury",
+        "context": " play they were chanting kuemper\u2026 he could\u2019ve got hurt just like their own goalie skinner did agains",
+        "subreddit": "losangeleskings",
+        "post_id": "1ket032",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 16:53:58",
+        "is_comment": true,
+        "comment_id": "mqlka2s"
+      }
+    ],
+    "kane": [
+      {
+        "player": "kane",
+        "status": "injury",
+        "context": "i don\u2019t see the kasper, kane and cat line getting broken up with how much success they had. \n\ni also",
+        "subreddit": "DetroitRedWings",
+        "post_id": "1kexybm",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 20:09:23",
+        "is_comment": true,
+        "comment_id": "mqmiuvm"
+      }
+    ],
+    "mcdavid": [
+      {
+        "player": "mcdavid",
+        "status": "return",
+        "context": "mcdavid\u2019s masterminded almost-comeback. i watched that game with someone who had",
+        "subreddit": "EdmontonOilers",
+        "post_id": "1kevac6",
+        "post_title": NaN,
+        "created_utc": "2025-05-05 00:31:28",
+        "is_comment": true,
+        "comment_id": "mqnn4ye"
+      },
+      {
+        "player": "mcdavid",
+        "status": "injury",
+        "context": "ch as you want but mcdavid and drastili were both injured in game 7 against florida. skinner is good",
+        "subreddit": "EdmontonOilers",
+        "post_id": "1kes87v",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 16:08:05",
+        "is_comment": true,
+        "comment_id": "mqlbel9"
+      }
+    ],
+    "kaprizov": [
+      {
+        "player": "kaprizov",
+        "status": "injury",
+        "context": ", kaprizov started dealing with an abdominal area injury around christmas time. he was first shut do",
+        "subreddit": "wildhockey",
+        "post_id": "1kewrbt",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 20:06:39",
+        "is_comment": true,
+        "comment_id": "mqmielj"
+      },
+      {
+        "player": "kaprizov",
+        "status": "injury",
+        "context": "e they are pretty much confirming that kaprizov\u2019s surgery was for a hernia and as far as i know that",
+        "subreddit": "wildhockey",
+        "post_id": "1kewrbt",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 19:48:43",
+        "is_comment": true,
+        "comment_id": "mqmfd4t"
+      }
+    ],
+    "hellebuyck": [
+      {
+        "player": "hellebuyck",
+        "status": "injury",
+        "context": "g wasn't a big issue at all outside of markstroms injury......also factoring in hellebuyck didn't sh",
+        "subreddit": "devils",
+        "post_id": "1kexm96",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 19:44:28",
+        "is_comment": true,
+        "comment_id": "mqmemjv"
+      }
+    ],
+    "point": [
+      {
+        "player": "point",
+        "status": "injury",
+        "context": " from the point i had thought that's game. what a recovery",
+        "subreddit": "winnipegjets",
+        "post_id": "1kf04ik",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 23:17:12",
+        "is_comment": true,
+        "comment_id": "mqnd6ei"
+      },
+      {
+        "player": "point",
+        "status": "injury",
+        "context": "think you're missing the point. the rumours floating around bef",
+        "subreddit": "devils",
+        "post_id": "1kexm96",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 19:54:39",
+        "is_comment": true,
+        "comment_id": "mqmgdee"
+      }
+    ],
+    "price": [
+      {
+        "player": "price",
+        "status": "injury",
+        "context": "really mind the price paid on gourde/bjorkstrand. injury aside, the thing that bugs me is the usage ",
+        "subreddit": "TampaBayLightning",
+        "post_id": "1kf0tdv",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 22:43:10",
+        "is_comment": true,
+        "comment_id": "mqn7wmz"
+      }
+    ],
+    "luongo": [
+      {
+        "player": "luongo",
+        "status": "return",
+        "context": "he twins and luongo. jovo signed worn team canada practice jersey with coa signed by gretzky.   puck",
+        "subreddit": "canucks",
+        "post_id": "1kemjpq",
+        "post_title": NaN,
+        "created_utc": "2025-05-04 13:08:48",
+        "is_comment": true,
+        "comment_id": "mqkcisl"
+      }
+    ]
+  }
+}
